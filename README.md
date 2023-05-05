@@ -1,92 +1,234 @@
-<img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner.png" style="height: 100% , width:100%">
-<h1 align="center">Hi 👋, I'm Raviraj Solanki</h1>
-<h3 align="center">I'm an Engineer and a 22-year old technical enthusiast who does web development, Blogging and Designing. Passionate to contribute open-source projects and create cool content.</h3>
-
----
-
-- 🔭 I’m currently working on [Portfolio website]()
-
-- 🌱 I’m currently learning **M E R N**
-
-- 📫 How to reach me **ravisolanki9322@gmail.com**
-
----
-
-<h1 align="center">TECHNOLOGY</h1>
-
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-</p>
-
----
-
-<h1 align="center">STATS</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RaviSolanki27" alt="ravisolanki" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisolanki27&theme=gotham&show_icons=true" alt="ravisolanki" />
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ravisolanki27&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisolanki27&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="ravisolanki" /></p>
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ravisolanki27&theme=react-dark&hide_border=true&area=true)
-
----
-<h1 align="center">PROJECTS</h1>
-
-<h4>1. Todo app using ReactJS </h4>
-
-<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/todo.png" ></a>
-
-
-<h4>2. Random Quote generator using NodeJs </h4>
-
-<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
-
----
-
-<h1 align="center">BLOGS</h1>
-<a href="https://www.linkedin.com/pulse/what-5-things-you-must-do-your-first-paycheck-raviraj-solanki/" target="blank">
-<img src="https://media-exp1.licdn.com/dms/image/C4D12AQHVBf5FWRnp0w/article-cover_image-shrink_720_1280/0/1638538607562?e=1649289600&v=beta&t=nsF1Hf0YkmXip-kGt031yqNAHaOD3TkuNSl4hVwF52c" ></a>
-
-
----
-
-<h1 align="center">SOCIAL</h1>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/ravirajsolanki27/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
-<a href="https://twitter.com/Ravirajsolanki_" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="height: 3rem"/>
-</a>
-
-<a href="https://codepen.io/ravisolanki27" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
-</a>
-
-<a href="https://www.instagram.com/ravi_27.01" target="blank">
-<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png/" style="height:3rem">
-</a>
-
-<a href="https://www.youtube.com/channel/UCpBGxQbi-wahJ7wRaG80E6w" target="blank">
-<img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
-</a>
-
-</div>
-
----
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
-
----
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8abd66ab52ead534b74e994ca30f0fc4d12f92f3aec34ceee3ca0ce3c42ce08f/68747470733a2f2f692e696d6775722e636f6d2f3533364a4e64392e6a7067"><img src="https://camo.githubusercontent.com/8abd66ab52ead534b74e994ca30f0fc4d12f92f3aec34ceee3ca0ce3c42ce08f/68747470733a2f2f692e696d6775722e636f6d2f3533364a4e64392e6a7067" width="100%" data-canonical-src="https://i.imgur.com/536JNd9.jpg" style="max-width: 100%;"></a></p>
+  <p align="center" dir="auto">
+    <a href="https://shawncharles.com" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/6028855d0293465fee09b993185cb5feb85cfa027a14a79df3a9de72e9b5451c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://shawncharles.com/linkedin" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/aa0e268b31cb26cfc48e67f7014a9be187877bf7dafe4f46cf4e6f076e1af1ac/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKED-IN&amp;color=cdf998&amp;style=plastic&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://shawncharles.com/twitter" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/bd2c86abccd84dca46365117309abb7cbf82e3cc0e4bd0895b5d39e8fce1c3f4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5457495454455226636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=TWITTER&amp;color=23555f&amp;style=plastic&amp;logo=twitter&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://shawncharles.com/angellist" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/bad521e58804d7c5f9b7b158aa5bb146769946fb0d43ae7f734ee34924af826b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d414e47454c2d4c49535426636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d616e67656c6c697374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=ANGEL-LIST&amp;color=cdf998&amp;style=plastic&amp;logo=angellist&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://shawncharles.com/resume" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/ffdea566de5e180f7d8f8f4ec7a4616db2b03ebdde2bcb42c0fe23300c829e91/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=RESUME&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+  </p>
+  <p dir="auto">Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.</p>
+  <p dir="auto">See <a href="https://shawncharles.com" rel="nofollow">my website</a> for more information!</p>
+  <h1 align="center" dir="auto"><a id="user-content-projects" class="anchor" aria-hidden="true" href="#projects"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Projects</h1>
+  <table>
+    <tbody><tr>
+      <td width="50%" valign="top">
+        <h3 align="center" dir="auto"><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="#travelaraorg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Travelara.org</h3>
+          <br>
+          <animated-image data-catalyst="" style="width: 100%;"><a href="http://travelara.herokuapp.com" rel="nofollow" data-target="animated-image.originalLink" hidden="">
+              <img src="/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" alt="Travel App" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden="">
+          </a>
+        <span class="AnimatedImagePlayer enabled" data-target="animated-image.player">
+          <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="http://travelara.herokuapp.com/" target="_blank" hidden="">
+            
+          </a>
+          <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Travel App"><span data-target="animated-image.imageContainer">
+              <img data-target="animated-image.replacedImage" alt="Travel App" class="AnimatedImagePlayer-animatedImage" src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" style="display: block; opacity: 1;">
+            <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="192"></canvas></span></button>
+          <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
+            <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Travel App">
+              <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+              </path></svg>
+              <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+                <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+              </svg>
+            </button>
+            <a data-target="animated-image.openButton" aria-label="Open Travel App in new window" class="AnimatedImagePlayer-button" href="http://travelara.herokuapp.com/" target="_blank">
+              <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+              </svg>
+            </a>
+          </span>
+        </span></animated-image>
+          <br>
+          <p align="center" dir="auto">
+    <a href="https://github.com/CharlesCreativeContent/Demo-Day">
+      <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+    </a>  
+    <a href="http://travelara.herokuapp.com" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+        </p>
+          <p dir="auto"><strong>Javascript, Bootstrap, Sass, Node.js, &amp; Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center" dir="auto"><a id="user-content-rigley-2-flappy-bug" class="anchor" aria-hidden="true" href="#rigley-2-flappy-bug"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Rigley 2: "Flappy Bug"</h3>
+          <br>
+        <animated-image data-catalyst="" style="width: 100%;"><a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" rel="nofollow" data-target="animated-image.originalLink" hidden="">
+              <img src="/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" alt="Rigley 2" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden="">
+          </a>
+        <span class="AnimatedImagePlayer enabled" data-target="animated-image.player">
+          <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank" hidden="">
+            
+          </a>
+          <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Rigley 2"><span data-target="animated-image.imageContainer">
+              <img data-target="animated-image.replacedImage" alt="Rigley 2" class="AnimatedImagePlayer-animatedImage" src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" style="display: block; opacity: 1;">
+            <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="192"></canvas></span></button>
+          <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
+            <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Rigley 2">
+              <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+              </path></svg>
+              <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+                <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+              </svg>
+            </button>
+            <a data-target="animated-image.openButton" aria-label="Open Rigley 2 in new window" class="AnimatedImagePlayer-button" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+              <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+              </svg>
+            </a>
+          </span>
+        </span></animated-image>
+          <br>
+          <p align="center" dir="auto">
+    <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
+      <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+        </p>
+          <p dir="auto"><strong>Javascript &amp; Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center" dir="auto"><a id="user-content-shawncharlescom" class="anchor" aria-hidden="true" href="#shawncharlescom"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>ShawnCharles.com</h3>
+        <br>
+          <animated-image data-catalyst="" style="width: 100%;"><a href="https://shawncharles.com" rel="nofollow" data-target="animated-image.originalLink" hidden="">
+            <img src="/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" alt="Portfolio" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden="">
+          </a>
+        <span class="AnimatedImagePlayer enabled playing" data-target="animated-image.player">
+          <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://shawncharles.com/" target="_blank" hidden="">
+            
+          </a>
+          <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Pause Portfolio"><span data-target="animated-image.imageContainer">
+              <img data-target="animated-image.replacedImage" alt="Portfolio" class="AnimatedImagePlayer-animatedImage" src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" style="display: block; opacity: 1;">
+            <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="192"></canvas></span></button>
+          <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
+            <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Pause Portfolio">
+              <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+              </path></svg>
+              <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+                <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+              </svg>
+            </button>
+            <a data-target="animated-image.openButton" aria-label="Open Portfolio in new window" class="AnimatedImagePlayer-button" href="https://shawncharles.com/" target="_blank">
+              <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+              </svg>
+            </a>
+          </span>
+        </span></animated-image>
+        <br>
+          <p align="center" dir="auto">
+    <a href="https://github.com/CharlesCreativeContent/Portfolio2021">
+      <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="http://shawncharles.com" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+        </p>
+          <p dir="auto"><strong>HTML5, CSS3, &amp; Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center" dir="auto"><a id="user-content-matching-cards" class="anchor" aria-hidden="true" href="#matching-cards"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Matching Cards</h3>
+          <br>
+          <animated-image data-catalyst="" style="width: 100%;"><a href="https://poke-matchcards.netlify.app/" rel="nofollow" data-target="animated-image.originalLink" hidden="">
+            <img src="/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" alt="Matching Cards" style="max-width: 100%; display: none;" data-target="animated-image.originalImage" hidden="">
+          </a>
+        <span class="AnimatedImagePlayer enabled playing" data-target="animated-image.player">
+          <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://poke-matchcards.netlify.app/" target="_blank" hidden="">
+            
+          </a>
+          <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Pause Matching Cards"><span data-target="animated-image.imageContainer">
+              <img data-target="animated-image.replacedImage" alt="Matching Cards" class="AnimatedImagePlayer-animatedImage" src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" style="display: block; opacity: 1;">
+            <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="192"></canvas></span></button>
+          <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
+            <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Pause Matching Cards">
+              <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+              </path></svg>
+              <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+                <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+              </svg>
+            </button>
+            <a data-target="animated-image.openButton" aria-label="Open Matching Cards in new window" class="AnimatedImagePlayer-button" href="https://poke-matchcards.netlify.app/" target="_blank">
+              <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+              </svg>
+            </a>
+          </span>
+        </span></animated-image>
+          <br>
+          <p align="center" dir="auto">
+    <a href="https://github.com/CharlesCreativeContent/matching-card-game">
+      <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://poke-matchcards.netlify.app" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+        </p>
+          <p dir="auto"><strong>HTML5, CSS3, &amp; Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, &amp; Magic: The Gathering!</p>
+      </td>
+    </tr>
+  </tbody></table>
+  <h1 align="center" dir="auto"><a id="user-content-technologies" class="anchor" aria-hidden="true" href="#technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Technologies</h1>
+  <p align="center" dir="auto">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1105f5493f58c44150cb5c9c2c20e7dde13f7bc9eae248b67610b23048f710ec/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d48544d4c3526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d68746d6c35"><img src="https://camo.githubusercontent.com/1105f5493f58c44150cb5c9c2c20e7dde13f7bc9eae248b67610b23048f710ec/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d48544d4c3526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d68746d6c35" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=HTML5&amp;color=23555f&amp;style=plastic&amp;logo=html5" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb4801ca483eb0a37406fd5c6e07bf11ee00c0579b88bfe6a0fe2380b9c8e87d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4353533326636f6c6f723d323835663635267374796c653d706c6173746963266c6f676f3d63737333"><img src="https://camo.githubusercontent.com/cb4801ca483eb0a37406fd5c6e07bf11ee00c0579b88bfe6a0fe2380b9c8e87d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4353533326636f6c6f723d323835663635267374796c653d706c6173746963266c6f676f3d63737333" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=CSS3&amp;color=285f65&amp;style=plastic&amp;logo=css3" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/78209b78fd3babc3dc726ac9f31165b4a77d806bf3225e6bfcce5e02978d2388/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5341535326636f6c6f723d326236323566267374796c653d706c6173746963266c6f676f3d73617373"><img src="https://camo.githubusercontent.com/78209b78fd3babc3dc726ac9f31165b4a77d806bf3225e6bfcce5e02978d2388/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5341535326636f6c6f723d326236323566267374796c653d706c6173746963266c6f676f3d73617373" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=SASS&amp;color=2b625f&amp;style=plastic&amp;logo=sass" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cb583bea94684cbf221e5458f1e15be8a214509d0ce451c928290d5c08edbe1d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d424f4f54535452415026636f6c6f723d333136633565267374796c653d706c6173746963266c6f676f3d626f6f747374726170"><img src="https://camo.githubusercontent.com/cb583bea94684cbf221e5458f1e15be8a214509d0ce451c928290d5c08edbe1d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d424f4f54535452415026636f6c6f723d333136633565267374796c653d706c6173746963266c6f676f3d626f6f747374726170" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=BOOTSTRAP&amp;color=316c5e&amp;style=plastic&amp;logo=bootstrap" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/30934920b46fd5b6874bf6ce5f9a3afd8ea0e5e4ed20ab9eda0450286ba7a138/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4a41564153435249505426636f6c6f723d336337663564267374796c653d706c6173746963266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/30934920b46fd5b6874bf6ce5f9a3afd8ea0e5e4ed20ab9eda0450286ba7a138/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4a41564153435249505426636f6c6f723d336337663564267374796c653d706c6173746963266c6f676f3d6a617661736372697074" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=JAVASCRIPT&amp;color=3c7f5d&amp;style=plastic&amp;logo=javascript" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4e6db61875a07fde727ecc34f5e6a83e8f4528ac9fee61c8239a1cd3533b0839/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d52454143542e4a5326636f6c6f723d346139333563267374796c653d706c6173746963266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/4e6db61875a07fde727ecc34f5e6a83e8f4528ac9fee61c8239a1cd3533b0839/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d52454143542e4a5326636f6c6f723d346139333563267374796c653d706c6173746963266c6f676f3d7265616374" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REACT.JS&amp;color=4a935c&amp;style=plastic&amp;logo=react" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/318dfb3892aa80d9c2e9b7d4e75289fb88dfc8eaf2e7e526fa4d69e497146274/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5459504553435249505426636f6c6f723d346139333563267374796c653d706c6173746963266c6f676f3d74797065736372697074"><img src="https://camo.githubusercontent.com/318dfb3892aa80d9c2e9b7d4e75289fb88dfc8eaf2e7e526fa4d69e497146274/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5459504553435249505426636f6c6f723d346139333563267374796c653d706c6173746963266c6f676f3d74797065736372697074" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=TYPESCRIPT&amp;color=4a935c&amp;style=plastic&amp;logo=typescript" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f80569b5ca4af45dab1419a4fe8403f1326bba304bccf101438fafc362a1288e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d505954484f4e26636f6c6f723d353239383562267374796c653d706c6173746963266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/f80569b5ca4af45dab1419a4fe8403f1326bba304bccf101438fafc362a1288e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d505954484f4e26636f6c6f723d353239383562267374796c653d706c6173746963266c6f676f3d707974686f6e" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=PYTHON&amp;color=52985b&amp;style=plastic&amp;logo=python" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f218d58158e351f61046ff0ade173114553c6b8eff6e8039e8803fba2bcd95c9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4a41564126636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6a617661"><img src="https://camo.githubusercontent.com/f218d58158e351f61046ff0ade173114553c6b8eff6e8039e8803fba2bcd95c9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4a41564126636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6a617661" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=JAVA&amp;color=cdf998&amp;style=plastic&amp;logo=java" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4fa5bc7347d1f41e763673317069b9849fadd3bb90b986ffbe22db2090f55c97/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d534f4c494449545926636f6c6f723d386662633536267374796c653d706c6173746963266c6f676f3d736f6c6964697479"><img src="https://camo.githubusercontent.com/4fa5bc7347d1f41e763673317069b9849fadd3bb90b986ffbe22db2090f55c97/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d534f4c494449545926636f6c6f723d386662633536267374796c653d706c6173746963266c6f676f3d736f6c6964697479" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=SOLIDITY&amp;color=8fbc56&amp;style=plastic&amp;logo=solidity" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/865a91eb7372d7385b7e417b2682d6c5ac45e95e577e2f00f80da0f8512ac894/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d53454c454e49554d26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d73656c656e69756d"><img src="https://camo.githubusercontent.com/865a91eb7372d7385b7e417b2682d6c5ac45e95e577e2f00f80da0f8512ac894/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d53454c454e49554d26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d73656c656e69756d" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=SELENIUM&amp;color=cdf998&amp;style=plastic&amp;logo=selenium" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c3ea137fbfc63a9474f5c8150e25cd31c25b5c3e3c75444898bcdf69233d628f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d41575326636f6c6f723d393862663533267374796c653d706c6173746963266c6f676f3d616d617a6f6e"><img src="https://camo.githubusercontent.com/c3ea137fbfc63a9474f5c8150e25cd31c25b5c3e3c75444898bcdf69233d628f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d41575326636f6c6f723d393862663533267374796c653d706c6173746963266c6f676f3d616d617a6f6e" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=AWS&amp;color=98bf53&amp;style=plastic&amp;logo=amazon" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b0c93081ae7cb116e8ce218ca2ad5f959be78e27f98fac18631600d56fa4f3b4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d574f5244505245535326636f6c6f723d636464313438267374796c653d706c6173746963266c6f676f3d776f72647072657373"><img src="https://camo.githubusercontent.com/b0c93081ae7cb116e8ce218ca2ad5f959be78e27f98fac18631600d56fa4f3b4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d574f5244505245535326636f6c6f723d636464313438267374796c653d706c6173746963266c6f676f3d776f72647072657373" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WORDPRESS&amp;color=cdd148&amp;style=plastic&amp;logo=wordpress" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f0713180e549e5c0bd35c406bde5fbf0dd8969d0810f100daede67bc56188813/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d41444f424526636f6c6f723d393862663533267374796c653d706c6173746963266c6f676f3d61646f6265"><img src="https://camo.githubusercontent.com/f0713180e549e5c0bd35c406bde5fbf0dd8969d0810f100daede67bc56188813/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d41444f424526636f6c6f723d393862663533267374796c653d706c6173746963266c6f676f3d61646f6265" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=ADOBE&amp;color=98bf53&amp;style=plastic&amp;logo=adobe" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e569ee48d897e5b63f64a257e16ea86e25ba7cd5dec11e09d9c3bfa7ab2a1b13/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4d4f4e474f2d444226636f6c6f723d636464313438267374796c653d706c6173746963266c6f676f3d6d6f6e676f6462"><img src="https://camo.githubusercontent.com/e569ee48d897e5b63f64a257e16ea86e25ba7cd5dec11e09d9c3bfa7ab2a1b13/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4d4f4e474f2d444226636f6c6f723d636464313438267374796c653d706c6173746963266c6f676f3d6d6f6e676f6462" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=MONGO-DB&amp;color=cdd148&amp;style=plastic&amp;logo=mongodb" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b96e1eac99ec166fe2aa78f9bdd3edfcc8d0d8495cfc43e373a6faa01220ecd0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4558505245535326636f6c6f723d626262313131267374796c653d706c6173746963266c6f676f3d65787072657373"><img src="https://camo.githubusercontent.com/b96e1eac99ec166fe2aa78f9bdd3edfcc8d0d8495cfc43e373a6faa01220ecd0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4558505245535326636f6c6f723d626262313131267374796c653d706c6173746963266c6f676f3d65787072657373" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=EXPRESS&amp;color=bbb111&amp;style=plastic&amp;logo=express" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d41024ea422bb92c858c68f7d9380c04e2b46ea114f5bc2a86af6d393cbedaf0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425041434b26636f6c6f723d626262313131267374796c653d706c6173746963266c6f676f3d7765627061636b"><img src="https://camo.githubusercontent.com/d41024ea422bb92c858c68f7d9380c04e2b46ea114f5bc2a86af6d393cbedaf0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425041434b26636f6c6f723d626262313131267374796c653d706c6173746963266c6f676f3d7765627061636b" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBPACK&amp;color=bbb111&amp;style=plastic&amp;logo=webpack" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2dc290fd837737a97fdc864b63b8efab95c637954bdc7dbbc67d47b8067eafdc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e555826636f6c6f723d626262313131267374796c653d706c6173746963266c6f676f3d6c696e7578"><img src="https://camo.githubusercontent.com/2dc290fd837737a97fdc864b63b8efab95c637954bdc7dbbc67d47b8067eafdc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e555826636f6c6f723d626262313131267374796c653d706c6173746963266c6f676f3d6c696e7578" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINUX&amp;color=bbb111&amp;style=plastic&amp;logo=linux" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7162bc2456fcbd754d1b463e1339341256a7b787f9365ee0661c6b393ae76f49/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d47495426636f6c6f723d636262313438267374796c653d706c6173746963266c6f676f3d676974"><img src="https://camo.githubusercontent.com/7162bc2456fcbd754d1b463e1339341256a7b787f9365ee0661c6b393ae76f49/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d47495426636f6c6f723d636262313438267374796c653d706c6173746963266c6f676f3d676974" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=GIT&amp;color=cbb148&amp;style=plastic&amp;logo=git" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cba1a1ce9cc5116988eede85355914c8afad652be03c6166ab92dd5bb70ed034/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d464952454241534526636f6c6f723d636262313438267374796c653d706c6173746963266c6f676f3d6669726562617365"><img src="https://camo.githubusercontent.com/cba1a1ce9cc5116988eede85355914c8afad652be03c6166ab92dd5bb70ed034/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d464952454241534526636f6c6f723d636262313438267374796c653d706c6173746963266c6f676f3d6669726562617365" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=FIREBASE&amp;color=cbb148&amp;style=plastic&amp;logo=firebase" style="max-width: 100%;"></a>
+  </p>
+  <hr>
+  <h1 align="center" dir="auto"><a id="user-content-connect" class="anchor" aria-hidden="true" href="#connect"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Connect</h1>
+  <p align="center" dir="auto">
+    <a href="https://shawncharles.com" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/6028855d0293465fee09b993185cb5feb85cfa027a14a79df3a9de72e9b5451c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://shawncharles.com/linkedin" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/aa0e268b31cb26cfc48e67f7014a9be187877bf7dafe4f46cf4e6f076e1af1ac/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=LINKED-IN&amp;color=cdf998&amp;style=plastic&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://shawncharles.com/twitter" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/bd2c86abccd84dca46365117309abb7cbf82e3cc0e4bd0895b5d39e8fce1c3f4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5457495454455226636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=TWITTER&amp;color=23555f&amp;style=plastic&amp;logo=twitter&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://shawncharles.com/angellist" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/bad521e58804d7c5f9b7b158aa5bb146769946fb0d43ae7f734ee34924af826b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d414e47454c2d4c49535426636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d616e67656c6c697374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=ANGEL-LIST&amp;color=cdf998&amp;style=plastic&amp;logo=angellist&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+    <a href="https://shawncharles.com/resume" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/ffdea566de5e180f7d8f8f4ec7a4616db2b03ebdde2bcb42c0fe23300c829e91/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=RESUME&amp;color=23555f&amp;style=plastic&amp;logo=react&amp;logo-color=white" style="max-width: 100%;">
+    </a>
+  </p>
+  </article>
