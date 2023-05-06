@@ -1,5 +1,8 @@
+<a href= "https://danielfraga.dev/" rel="nofollow">
+<img src="/BG Image Github.png" style="max-width: 100%;">
+
 <h1 align="center">Hi 👋, I'm Daniel Fraga</h1>
-<h3 align="center">A full stack software engineer</h3>
+<h3 align="center">A Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on [creating art with JS](https://curryshower.netlify.app/)
 
