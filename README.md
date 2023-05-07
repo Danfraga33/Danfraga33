@@ -1,25 +1,173 @@
+<!-- Banner -->
+
 <a href= "https://danielfraga.dev/" rel="nofollow">
 <img src="/BG Image Github.png" style="max-width: 100%;">
+  
+<!-- Typing Text -->
+  
+  <p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4001&color=71ff86&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;WEBSITE+DEVELOPER;CODING+ARTIST;CONTINUOUS+LEARNER;✨DREAMER✨;"</p>
 
-<h1 align="center">Hi 👋, I'm Daniel Fraga</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
+<!-- SOCIALS -->
+ 
+<div align="center">
+  <p align="center">
+    <a href="https://danielfraga.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-01C5DE?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://twitter.com/Danfraga3" target="_blank">
+      <img src="https://img.shields.io/badge/-Twitter-01C5DE?logo=twitter&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/daniel--fraga/" target="_blank">
+      <img src="https://img.shields.io/badge/-Linkedin-01C5DE?logo=linkedin&logoColor=white&style=for-the-badge";"/>
+    </a>
+    <a href="mailto:dan.fraga33@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-01C5DE?logo=gmail&logoColor=white&style=for-the-badge"/>
+    </a>
+  </p>
+</div>
+</br>    
+                                                                                               
+<!-- ABOUT ME -->
 
-- 🔭 I’m currently working on [creating art with JS](https://curryshower.netlify.app/)
+<h2 align="center" color="white">About Me</h2>
+<p align="center">
+I'm a software engineer passionate about using technology to create innovative solutions. My interests include AI, ML, coding Art, and Data Visualization. I'm fascinated by these specialized facets of coding and how they can be applied to real-world problems. When I'm not coding, I'm likely reading up on the latest tech news or exploring the great outdoors. I'm always looking for new opportunities to learn and grow, so feel free to reach out if you want to chat about tech!<p>
 
-- 🌱 I’m currently learning **Node.JS, Express, MongoDB, JS, React, Etc.**
 
-- 👨‍💻 All of my projects are available at [https://danielfraga.dev/](https://danielfraga.dev/)
 
-- 📫 How to reach me **dan.fraga33@gmail.com**
+</br>
+                 <!--         Languages & Tools           -->
+                 
+                 
+<h2 align="center" color="white">Languages and Tools</h2>
 
-- 📄 Learn about my experiences [https://danielfraga.dev/](https://danielfraga.dev/)
+<p align="center">
+MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/danfraga3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danfraga3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/daniel--fraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel--fraga" height="30" width="40" /></a>
+<p align="center">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225438702-dfa65ea4-ebdf-470c-8563-c19bc6767fec.svg" width="27" height="27" alt="React" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="27" height="27" alt="MongoDB" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="27" height="27" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="27" height="27" alt="Express" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225415415-7f4e5933-b8c4-4897-a6b4-a6a7d4904c1c.png" alt="Postman" width="27" height="27" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="27" height="27" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="27" height="27" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="27" height="27" alt="TailwindCSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="27" height="27" alt="HTML5" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/netlify.svg" alt="Netlify" width="27" height="27" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vscode.svg" alt="VS Code" width="27" height="27" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="27" height="27" alt="Git" /></a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Github Stats -->
+    
+<!-- <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=ayu-mirage&border=EB5454&stroke=10EB3F&background=45%2CEB5454%2CEB5454)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=rose-pine&border_radius=0&ring=01C5DE&background=FFFFFF&border=FFFFFF&fire=EB5454&currStreakNum=EB5454&sideNums=01C5DE&stroke=01C5DE&currStreakLabel=EB5454&sideLabels=01C5DE&dates=5A048A)">
+</div> -->
 
+<!-- <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=black-ice&border_radius=0&background=60%2CEB5454%2C202238&currStreakNum=FFFFFF&sideNums=01C5DE&stroke=EB5454">
+</div> -->
+
+<br>
+</br>
+
+<!-- My Work -->
+
+<h2 align="center">My Work</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+        <h3 align="center">PNG Shower</h3>
+        <br />
+        <a target="_blank" href="https://curryshower.netlify.app/">
+            <img src="project.gif" width="100%" alt="Parkside Virtual Walks App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="https://github.com/kriston-burnstein/parkside-paradise-virtual-walks-app" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://curryshower.netlify.app/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>Full Stack CRUD app using MVC architecture with EJS, JavaScript, CSS, Bootstrap, Node.js, MongoDB, Mongoose, Express.js, and Cloudinary</strong> - Description.</p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center">Random Color Hoverboard</h3>
+        <br />
+        <a target="_blank" href="https://colorhoverboard.netlify.app/">
+            <img src="project.gif" width="100%" alt="Otherworldly Event Booker Web App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="https://github.com/kriston-burnstein/otherworldly-event-booker" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://colorhoverboard.netlify.app/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>Full Stack CRUD app, MVC architecture, JavaScript, EJS, Bootstrap, CSS, Node.js, Express.js, Cloudinary, MongoDB</strong> -  Description</p>
+    </td>
+  </tr>  
+  <tr>
+    <td width="50%" valign="top">
+        <h3 align="center">Natours| Touring the Outdoors</h3>
+        <br />
+        <a target="_blank" href="https://natours-outdoor-tours.netlify.app/">
+            <img src="project.gif" width="100%" alt="Parkside Virtual Walks App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://natours-outdoor-tours.netlify.app/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>Javascript, PHP, HTML5, CSS, Bootstrap 5</strong> - Description </p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center">Password Strength App</h3>
+        <br />
+        <a target="_blank" href="https://passwordverifier.netlify.app/">
+            <img src="project.gif" width="100%" alt="Parkside Virtual Walks App"/>
+        </a>
+        <br />
+        <p align="center">
+            <a href="" target="_blank">
+                <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://passwordverifier.netlify.app/" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
+            </a>	
+        </p>
+        <p><strong>HTML5, CSS, and SASS</strong> - Description </p>
+    </td>
+  </tr>
+</table>
+
+<!-- SOCIALS -->
+ 
+<h2 align="center" color="white">Connect with Me</h2>
+<div align="center">
+  <p align="center">
+    <a href="https://danielfraga.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-01C5DE?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAB3RJTUUH5gwKECARRZb4egAAAAJiS0dEAP%2BHj8y%2FAAAAnUlEQVQYGY3BMUqCAQAG0G%2FIJUJ0iDAoUNShIc%2FQ0oFaHVqjqYM06SAiltA%2FdJCsqU6gvgwLxAR9LzuIA00dVREVl9pKsiTK7r35Urh2ZeLTuwdVibgxs%2FJhamWuK3FoZJtCOY5MbPOqEnFr4b87iTj2aFNfTSLiVM%2B6oXORJRFnBv48aYj8ElE39uNFW2SNiJZnhQuRDSJO1ET28g3gyOKRiJ5NZQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMi0xMi0xMFQxNjozMjoxNyswMDowMB1J7wEAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjItMTItMTBUMTY6MzI6MTcrMDA6MDBsFFe9AAAAAElFTkSuQmCC&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://twitter.com/Danfraga3" target="_blank">
+      <img src="https://img.shields.io/badge/-Twitter-01C5DE?logo=twitter&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/daniel--fraga/da" target="_blank">
+      <img src="https://img.shields.io/badge/-Linkedin-01C5DE?logo=linkedin&logoColor=white&style=for-the-badge"/">
+    </a>
+    <a href="mailto:dan.fraga33@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-01C5DE?logo=gmail&logoColor=#71ff86&style=for-the-badge"/>
+    </a>
+  </p>
+</div>                                                                                                       
