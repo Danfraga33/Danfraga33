@@ -167,7 +167,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
       <img src="https://img.shields.io/badge/-Linkedin-01C5DE?logo=linkedin&logoColor=white&style=for-the-badge"/">
     </a>
     <a href="mailto:dan.fraga33@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-01C5DE?logo=gmail&logoColor=#71ff86&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Email-01C5DE?logo=gmail&logoColor=white&style=for-the-badge"/>
     </a>
   </p>
 </div>                                                                                                       
