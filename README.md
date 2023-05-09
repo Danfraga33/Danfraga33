@@ -80,10 +80,10 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-        <h3 align="center">PNG Shower</h3>
+        <h3 align="center">PNG Pixel Shower</h3>
         <br />
         <a target="_blank" href="https://curryshower.netlify.app/">
-            <img src="project.gif" width="100%" alt="Parkside Virtual Walks App"/>
+            <img src="/pixelShower - curry.gif" width="100%" alt="Parkside Virtual Walks App"/>
         </a>
         <br />
         <p align="center">
