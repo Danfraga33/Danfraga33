@@ -94,7 +94,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>Full Stack CRUD app using MVC architecture with EJS, JavaScript, CSS, Bootstrap, Node.js, MongoDB, Mongoose, Express.js, and Cloudinary</strong> - Description.</p>
+        <p><strong>HTML5, CSS, Javascript, CanvaAPI</strong> - PNG Pixel Shower showcases pixel art generated using the Canva API. Each pixel is a random color and forms a beautiful PNG image. </p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Random Color Hoverboard</h3>
@@ -111,7 +111,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>Full Stack CRUD app, MVC architecture, JavaScript, EJS, Bootstrap, CSS, Node.js, Express.js, Cloudinary, MongoDB</strong> -  Description</p>
+        <p><strong>HTML5, CSS, and Javascript</strong> -  The hoverboard app, where users can mouse over each block to reveal a random color. The colors fade out gradually when the mouse leaves the block, creating a dynamic and interactive experience. </p>
     </td>
   </tr>  
   <tr>
@@ -130,7 +130,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>Javascript, PHP, HTML5, CSS, Bootstrap 5</strong> - Description </p>
+        <p><strong>HTML, CSS, Sass, Javascript</strong> - Natours offers a variety of outdoor tours for nature enthusiasts. Tours include guided hikes, wildlife watching, camping trips, and more. Specializing in creating unique and memorable experiences that showcase the natural beauty of nature. Offering educational adventures for all skill levels! </p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Password Strength App</h3>
@@ -147,7 +147,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>HTML5, CSS, and SASS</strong> - Description </p>
+        <p><strong>HTML5, CSS, and Javascript</strong> - Login application uses a unique password strength feature. As users type their password, the background image becomes clearer, providing visual feedback on password strength. This helps users create more secure passwords and reduces the risk of unauthorized access.  </p>
     </td>
   </tr>
 </table>
