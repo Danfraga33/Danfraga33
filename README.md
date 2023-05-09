@@ -83,7 +83,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
         <h3 align="center">PNG Pixel Shower</h3>
         <br />
         <a target="_blank" href="https://curryshower.netlify.app/">
-            <img src="/pixelShower - curry.gif" width="100%" alt="Parkside Virtual Walks App"/>
+            <img src="/pixelShower - currygif.gif" width="100%" alt="Parkside Virtual Walks App"/>
         </a>
         <br />
         <p align="center">
@@ -100,7 +100,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
         <h3 align="center">Random Color Hoverboard</h3>
         <br />
         <a target="_blank" href="https://colorhoverboard.netlify.app/">
-            <img src="project.gif" width="100%" alt="Otherworldly Event Booker Web App"/>
+            <img src="Hoverboard.gif" width="100%" alt="Otherworldly Event Booker Web App"/>
         </a>
         <br />
         <p align="center">
@@ -119,7 +119,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
         <h3 align="center">Natours| Touring the Outdoors</h3>
         <br />
         <a target="_blank" href="https://natours-outdoor-tours.netlify.app/">
-            <img src="project.gif" width="100%" alt="Parkside Virtual Walks App"/>
+            <img src="Natoursgif.gif" width="100%" alt="Parkside Virtual Walks App"/>
         </a>
         <br />
         <p align="center">
@@ -136,7 +136,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
         <h3 align="center">Password Strength App</h3>
         <br />
         <a target="_blank" href="https://passwordverifier.netlify.app/">
-            <img src="project.gif" width="100%" alt="Parkside Virtual Walks App"/>
+            <img src="PasswordStrengthGIF.gif" width="100%" alt="Parkside Virtual Walks App"/>
         </a>
         <br />
         <p align="center">
