@@ -55,6 +55,8 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225415415-7f4e5933-b8c4-4897-a6b4-a6a7d4904c1c.png" alt="Postman" width="27" height="27" /></a>
 <a href="https://www.npmjs.com/package/nodemon" rel="nofollow"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodemon.svg" alt="Nodemon" width="27" height="27" style="max-width: 100%;"></a>
 <a href="https://mui.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="27" height="27" alt="Material UI" style="max-width: 100%;"></a>
+<a href="https://tanstack.com/" rel="nofollow"><img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="27" height="27" alt="Material UI" style="max-width: 100%;"></a>
+<a href="https://www.tremor.so/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/97241560?s=280&v=4" width="27" height="27" alt="Material UI" style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="27" height="27" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="27" height="27" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="27" height="27" alt="TailwindCSS" /></a>
@@ -64,6 +66,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="27" height="27" alt="Git" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/babel.svg" alt="Babel" width="27" height="27" /></a>
 <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="Babel" width="27" height="27" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Babel" width="27" height="27" /></a>
 
 </p>
 
