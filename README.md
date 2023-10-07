@@ -70,16 +70,6 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
 
 </p>
 
-<!-- Github Stats -->
-    
-<!-- <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=ayu-mirage&border=EB5454&stroke=10EB3F&background=45%2CEB5454%2CEB5454)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=rose-pine&border_radius=0&ring=01C5DE&background=FFFFFF&border=FFFFFF&fire=EB5454&currStreakNum=EB5454&sideNums=01C5DE&stroke=01C5DE&currStreakLabel=EB5454&sideLabels=01C5DE&dates=5A048A)">
-</div> -->
-
-<!-- <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kriston-burnstein&theme=black-ice&border_radius=0&background=60%2CEB5454%2C202238&currStreakNum=FFFFFF&sideNums=01C5DE&stroke=EB5454">
-</div> -->
-
 <br>
 </br>
 
@@ -96,7 +86,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
         </a>
         <br />
         <p align="center">
-            <a href="https://github.com/kriston-burnstein/parkside-paradise-virtual-walks-app" target="_blank">
+            <a href="https://github.com/Danfraga33/CanvasSketch" target="_blank">
                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://curryshower.netlify.app/" target="_blank">
@@ -113,7 +103,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
         </a>
         <br />
         <p align="center">
-            <a href="https://github.com/kriston-burnstein/otherworldly-event-booker" target="_blank">
+            <a href="https://github.com/Danfraga33/Applications" target="_blank">
                 <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
             <a href="https://colorhoverboard.netlify.app/" target="_blank">
