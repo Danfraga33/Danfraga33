@@ -6,7 +6,7 @@
 <!-- Typing Text -->
   
   <p align="center"> 
-   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4001&color=71ff86&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;WEBSITE+DEVELOPER;CODING+ARTIST;CONTINUOUS+LEARNER;✨DREAMER✨;"</p>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4001&color=74e1aa&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;WEBSITE+DEVELOPER;CODING+ARTIST;CONTINUOUS+LEARNER;✨DREAMER✨;"</p>
 
 <!-- SOCIALS -->
  
