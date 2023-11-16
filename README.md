@@ -32,7 +32,7 @@
 
 <h2 align="center" color="white">About Me</h2>
 <p align="center">
-I'm a software engineer passionate about using technology to create innovative solutions. My interests include AI, ML, IoT, coding Art, and Data Visualization. I'm fascinated by these specialized facets of coding and how they can be applied to real-world problems. When I'm not coding, I'm likely reading up on the latest tech news or exploring the great outdoors. I'm always looking for new opportunities to learn and grow, so feel free to reach out if you want to chat about tech!<p>
+I'm a software engineer passionate about using technology to create innovative solutions. My interests include AI, ML, IoT, coding Art, and Data Visualization. I'm fascinated by these specialized facets of coding and how they can be applied to real-world problems. When I'm not coding, I'm likely reading up on the latest tech news or exploring the great outdoors. I'm always looking for new opportunities to learn and grow, so feel free to reach out if you want to chat!
 
 
 
