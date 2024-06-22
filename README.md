@@ -116,7 +116,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
         <h3 align="center">Natours| Touring the Outdoors</h3>
         <br />
         <a target="_blank" href="https://natours-outdoor-tours.netlify.app/">
-            <img src="NatoursGIF.gif" width="100%" alt="Parkside Virtual Walks App"/>
+            <img src="wealthwise.gif" width="100%" alt="Parkside Virtual Walks App"/>
         </a>
         <br />
         <p align="center">
