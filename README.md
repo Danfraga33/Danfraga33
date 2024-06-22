@@ -113,10 +113,10 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
   </tr>  
   <tr>
     <td width="50%" valign="top">
-        <h3 align="center">Natours| Touring the Outdoors</h3>
+        <h3 align="center">WealthWise | Financial Freedom Personal Assistant </h3>
         <br />
-        <a target="_blank" href="https://natours-outdoor-tours.netlify.app/">
-            <img src="wealthwise.gif" width="100%" alt="Parkside Virtual Walks App"/>
+        <a target="_blank" href="https://wealthwisenavigator.netlify.app/">
+            <img src="wealthwise.gif" width="100%" alt="WealthWise App"/>
         </a>
         <br />
         <p align="center">
@@ -127,7 +127,7 @@ MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=01C5DE"/>
             </a>	
         </p>
-        <p><strong>HTML, CSS, Sass, Javascript</strong> - Natours offers a variety of outdoor tours for nature enthusiasts. Tours include guided hikes, wildlife watching, camping trips, and more. Specializing in creating unique and memorable experiences that showcase the natural beauty of nature. Offering educational adventures for all skill levels! </p>
+        <p><strong>React, NextJS, Tailwind, MongoDB</strong> - Wealth Wise is an app that helps investors and entrepreneurs achieve financial freedom by tracking both investment and business performance. It offers insights and management tools to guide users in making informed financial decisions and reaching their goals! </p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Password Strength App</h3>
