@@ -27,17 +27,7 @@
   </p>
 </div>
 </br>    
-                                                                                               
-<!-- ABOUT ME -->
 
-<h2 align="center" color="white">About Me</h2>
-<p align="center">
-
-Software Developer 
-</br>
-                 <!--         Languages & Tools           -->
-                 
-                 
 <h2 align="center" color="white">Languages and Tools</h2>
 
 <p align="center">
