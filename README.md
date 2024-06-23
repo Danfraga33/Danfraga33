@@ -33,7 +33,7 @@
 <h2 align="center" color="white">About Me</h2>
 <p align="center">
 
-I'm a software engineer driven by a passion for AI, ML, coding art, and data visualization. I love applying these skills to real-world problems. Outside of coding, I enjoy tech news and exploring the outdoors. Always looking for new opportunities to learn and grow, so feel free to reach out if you want to chat!
+Software Developer 
 </br>
                  <!--         Languages & Tools           -->
                  
@@ -41,7 +41,7 @@ I'm a software engineer driven by a passion for AI, ML, coding art, and data vis
 <h2 align="center" color="white">Languages and Tools</h2>
 
 <p align="center">
-MERN Stack | JavaScript, React, Express, Node, MongoDB</p>
+React | NextJS | NodeJS | JavaScript | SQL | MongoDB | Python</p>
 
 <p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225438702-dfa65ea4-ebdf-470c-8563-c19bc6767fec.svg" width="27" height="27" alt="React" /></a>
