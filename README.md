@@ -3,10 +3,7 @@
 <a href= "https://danielfraga.dev/" rel="nofollow">
 <img src="/GithubBGAI.png" style="max-width: 100%;">
   
-<!-- Typing Text -->
-  
-  <p align="center"> 
-   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=4001&color=74e1aa&vCenter=true&center=true&width=460&lines=SOFTWARE+ENGINEER;WEBSITE+DEVELOPER;CODING+ARTIST;CONTINUOUS+LEARNER;✨INNOVATOR✨;"</p>
+
 
 <!-- SOCIALS -->
  
