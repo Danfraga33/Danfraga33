@@ -28,7 +28,7 @@
 <h2 align="center" color="white">Languages and Tools</h2>
 
 <p align="center">
-React | NextJS | NodeJS | JavaScript | SQL | MongoDB | Python</p>
+React | NextJS | Remix | NodeJS | JavaScript | SQL | MongoDB | Python</p>
 
 <p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225438702-dfa65ea4-ebdf-470c-8563-c19bc6767fec.svg" width="27" height="27" alt="React" /></a>
