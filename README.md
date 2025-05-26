@@ -31,8 +31,9 @@
 React | Remix | NextJS | Remix | NodeJS | Express | SQL | MongoDB | Python</p>
 
 <p align="center">
-<a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/id-bU44Sct/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1740466641707" width="27" height="27" alt="React" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/65462564/225438702-dfa65ea4-ebdf-470c-8563-c19bc6767fec.svg" width="27" height="27" alt="React" /></a>
+<a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/id-bU44Sct/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1740466641707" width="27" height="27" alt="React" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="27" height="27" alt="MongoDB" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="27" height="27" alt="NextJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="27" height="27" alt="MongoDB" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="27" height="27" alt="NodeJS" /></a>
