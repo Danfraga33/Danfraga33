@@ -1,7 +1,7 @@
-<!-- Banner -->
 
+<!-- Banner -->
+<img width="2559" height="1357" alt="brave_screenshot_danielfraga dev" src="https://github.com/user-attachments/assets/71b25276-fb5c-4bea-a611-2ef6114212c6" />
 <a href= "https://danielfraga.dev/" rel="nofollow">
-<img src="https://ibb.co/qMBBHysj" style="max-width: 100%;">
   
 
 
@@ -9,9 +9,6 @@
  
 <div align="center">
   <p align="center">
-    <a href="https://danielfraga.dev/" target="_blank">
-      <img src="https://ibb.co/qMBBHysj"/>
-    </a>
     <a href="https://twitter.com/Danfraga3" target="_blank">
       <img src="https://img.shields.io/badge/-Twitter-01C5DE?logo=twitter&logoColor=white&style=for-the-badge"/>
     </a>
