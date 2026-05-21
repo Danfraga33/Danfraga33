@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <a href= "https://danielfraga.dev/" rel="nofollow">
-<img src="/GithubBGAI.png" style="max-width: 100%;">
+<img src="https://ibb.co/qMBBHysj" style="max-width: 100%;">
   
 
 
