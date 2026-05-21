@@ -1,7 +1,9 @@
 
 <!-- Banner -->
-<img width="2559" height="1357" alt="brave_screenshot_danielfraga dev" src="https://github.com/user-attachments/assets/71b25276-fb5c-4bea-a611-2ef6114212c6" />
 <a href= "https://danielfraga.dev/" rel="nofollow">
+
+<img width="2559" height="1357" alt="brave_screenshot_danielfraga dev" src="https://github.com/user-attachments/assets/71b25276-fb5c-4bea-a611-2ef6114212c6" />
+</a>
   
 
 
